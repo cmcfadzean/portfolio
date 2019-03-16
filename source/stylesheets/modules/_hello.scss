@@ -1,0 +1,14 @@
+.hello {
+  margin: 30px;
+  background: $color-offset;
+  padding: 200px 0;
+  &-name {
+    color: #444;
+    font-size: 20px;
+  }
+  &-message {
+    color: #444;
+    font-size: 80px;
+    line-height: 1.2;
+  }
+}
