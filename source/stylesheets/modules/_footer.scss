@@ -1,0 +1,16 @@
+.footer {
+  border-top: 1px solid #222;
+  background: #111;
+  padding: 80px 0;
+  color: #fff;
+  &-message {
+    font-size: 80px;
+    line-height: 1.2;
+    margin-bottom: 50px;
+  }
+  &-link {
+    display: inline-block;
+    font-size: 24px;
+    margin-right: 30px;
+  }
+}
